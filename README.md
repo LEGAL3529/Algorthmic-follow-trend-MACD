@@ -1,4 +1,4 @@
-# MACD Strategy on Nasdaq Futures (NQ)
+# MACD Strategy on Nasdaq Futures (NQ) (LimexQuant Course Project)
 
 This repository contains a momentum-based trading strategy using the MACD indicator applied to NQ futures.
 
